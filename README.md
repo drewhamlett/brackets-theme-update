@@ -32,9 +32,9 @@ You can modify the font size at line 123 and 124.  It may be to large for your s
 ```	
 
 Turns this
-![Before](https://github.com/drewhjava/brackets-theme-update/blob/master/img/before.png)
+![Before](https://raw.github.com/drewhjava/brackets-theme-update/master/img/before.png)
 
 
 Into this
-![After](https://github.com/drewhjava/brackets-theme-update/blob/master/img/after.png)
+![After](https://raw.github.com/drewhjava/brackets-theme-update/master/img/after.png)
 
