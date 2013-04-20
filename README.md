@@ -1,7 +1,7 @@
 brackets-theme
 ============================
 
-Brackets theme update and MacOSX antialiasing fix.
+Brackets theme update and MacOSX anti-aliasing fix.
 
 Navigate to the www folder.
 
@@ -20,7 +20,7 @@ Make a backup of your brackets.less and brackets_theme_default.less.  Replace th
 
 You can modify the font size at line 123 and 124.  It may be to large for your screen size.
 
-```js
+```less
 .code-font() {
     color: @content-color;
     // line-height must be specified in px not em because the code font and line number font sizes are different.
@@ -32,8 +32,9 @@ You can modify the font size at line 123 and 124.  It may be to large for your s
 ```	
 
 Turns this
+![Before](https://github.com/drewhjava/brackets-theme-update/blob/master/img/before.png)
 
 
-
-into this
+Into this
+![After](https://github.com/drewhjava/brackets-theme-update/blob/master/img/after.png)
 
